@@ -1,0 +1,31 @@
+h1{
+  text-align: center;
+  color:white;
+}
+body{
+  background-image: url(https://s1.ticketm.net/dam/c/f50/96fa13be-e395-429b-8558-a51bb9054f50_105951_RETINA_PORTRAIT_16_9.jpg)
+}
+body{
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h2{
+  text-align:center;
+  color: white;
+}
+table, th, td{
+  border: 3x solid black;
+  background-color: grey;
+}
+.hi{
+  margin-left: auto;
+  margin-right: auto;
+}
+.bozo{
+   margin-left: auto;
+  margin-right: auto;
+  border: 3x blue;
+  background-color: grey;
+  
+}
